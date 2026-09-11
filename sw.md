@@ -35,22 +35,22 @@
   <div>
     <h2 id="02반">02반</h2>
     <ul>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-01/">1조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-02/">2조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-03/">3조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-04/">4조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-05/">5조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-06/">6조: 슬로건 미정</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-01/">1조: 코드로 연결되고, 함께 성장하다</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-02/">2조: 함께, 더 멀리</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-03/">3조: 삼삼오오 도담도담</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-04/">4조: 아이디어에서 시작해 미래까지</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-05/">5조: 천만번 더 들어도 기분 좋은 말 유레카</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-06/">6조: 목표 그 이상을 향해</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-07/">7조: 슬로건 미정</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-08/">8조: 개미같이 공부하고 베짱이처럼 놀자</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-09/">9조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-10/">10조: 행운유수 🌊</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-09/">9조: 404: 한계 Not Found</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-10/">10조: 행운유수(行雲流水) 🌊</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-11/">11조: 팀 슬로건은 팀원들과 함께 정할 예정입니다.</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-12/">12조: 슬로건 미정</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-12/">12조: 1단 2렇게 해보조</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-13/">13조: 우리는 업데이트 중입니다.</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-14/">14조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-15/">15조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-16/">16조: 슬로건 미정</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-15/">15조: 카더가든 화이팅!</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-16/">16조: 상상을 콘텐츠로, 아이디어를 게임으로!</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-17/">17조: 빛나는 내일을 향해 컴파일 중</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-18/">18조: 어디서나 당당하게 걷기</a></li>
     </ul>
