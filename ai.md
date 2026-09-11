@@ -22,7 +22,7 @@
 - [16조: 코드는 거짓말을 하지 않는다.](https://kookmin-sw.github.io/E26-AI01-16/)
 - [17조: Feel the AGI](https://kookmin-sw.github.io/E26-AI01-17/)
 - [18조: 슬로건 미정](https://kookmin-sw.github.io/E26-AI01-18/)
-- [19조: 슬로건 미정](https://kookmin-sw.github.io/E26-AI01-19/)
+- [19조: 우리는 학습한다, 고로 존재한다.](https://kookmin-sw.github.io/E26-AI01-19/)
 - [20조: 슬로건 미정](https://kookmin-sw.github.io/E26-AI01-20/)
 
 ---
