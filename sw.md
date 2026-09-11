@@ -25,7 +25,7 @@
       <li><a href="https://kookmin-sw.github.io/E26-SW01-11/">11조: 다르게 생각하고, 함께 해내자</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-12/">12조: 뭉쳐야 산다.</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-13/">13조: 상상을 현실로 노력을 결실로 !</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-14/">14조: <b>"즐겁게 살자!"<b/></a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-14/">14조: "즐겁게 살자!"</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-15/">15조: 끝없는 바다처럼, 무한한 가능성</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-16/">16조: 슬로건 미정</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-17/">17조: According to Coding</a></li>
