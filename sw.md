@@ -22,14 +22,14 @@
       <li><a href="https://kookmin-sw.github.io/E26-SW01-08/">8조: 재밌게 못 만든 게임은 잘 만든 게임이다.</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-09/">9조: 슬로건 미정</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-10/">10조: A+ 받고 10죠</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-11/">11조: 다르게 생각하고， 함께 해내자</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-11/">11조: 다르게 생각하고, 함께 해내자</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-12/">12조: 뭉쳐야 산다.</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-13/">13조: 상상을 현실로 노력을 결실로 !</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-14/">14조: 슬로건 미정</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-15/">15조: 끝없는 바다처럼， 무한한 가능성</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-15/">15조: 끝없는 바다처럼, 무한한 가능성</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-16/">16조: 슬로건 미정</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-17/">17조: According to Coding</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-18/">18조: 아이디어를 코드로， 가능성을 현실로</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-18/">18조: 아이디어를 코드로, 가능성을 현실로</a></li>
     </ul>
   </div>
   <div>
