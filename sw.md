@@ -30,6 +30,7 @@
       <li><a href="https://kookmin-sw.github.io/E26-SW01-16/">16조: 슬로건 미정</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-17/">17조: According to Coding</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-18/">18조: 아이디어를 코드로, 가능성을 현실로</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-19/">19조: 결번</a></li>
     </ul>
   </div>
   <div>
@@ -53,6 +54,8 @@
       <li><a href="https://kookmin-sw.github.io/E26-SW02-16/">16조: 상상을 콘텐츠로, 아이디어를 게임으로!</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-17/">17조: 빛나는 내일을 향해 컴파일 중</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-18/">18조: 어디서나 당당하게 걷기</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-19/">19조: 결번</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW02-20/">20조: 결번</a></li>
     </ul>
   </div>
 </div>
