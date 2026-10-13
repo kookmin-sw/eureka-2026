@@ -30,7 +30,6 @@
       <li><a href="https://kookmin-sw.github.io/E26-SW01-16/">16조: 슬로건 미정</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-17/">17조: According to Coding</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-18/">18조: 아이디어를 코드로, 가능성을 현실로</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-19/">19조: 결번</a></li>
     </ul>
   </div>
   <div>
@@ -61,4 +60,4 @@
 </div>
 
 ---
-[← 2026년](./) · [인공지능학부 결과물 →](ai) · 갱신: 2026-09-19
+[← 2026년](./) · [인공지능학부 결과물 →](ai) · 갱신: 2026-10-13
