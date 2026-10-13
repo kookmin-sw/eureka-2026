@@ -54,7 +54,6 @@
       <li><a href="https://kookmin-sw.github.io/E26-SW02-17/">17조: 빛나는 내일을 향해 컴파일 중</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-18/">18조: 어디서나 당당하게 걷기</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW02-19/">19조: 결번</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW02-20/">20조: 결번</a></li>
     </ul>
   </div>
 </div>
