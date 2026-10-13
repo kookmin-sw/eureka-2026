@@ -8,7 +8,7 @@
 - [2조: 결번](https://kookmin-sw.github.io/E26-AI01-02/)
 - [3조: ssh hello@ai](https://kookmin-sw.github.io/E26-AI01-03/)
 - [4조: Leave the past, Live today.](https://kookmin-sw.github.io/E26-AI01-04/)
-- [5조: 슬로건 미정](https://kookmin-sw.github.io/E26-AI01-05/)
+- [5조: 오늘을 학습해 내일을 만든다.](https://kookmin-sw.github.io/E26-AI01-05/)
 - [6조: 상상은 다르게, 꿈은 크게, 미래는 함께](https://kookmin-sw.github.io/E26-AI01-06/)
 - [7조: Error507: Insufficient Brain Storage](https://kookmin-sw.github.io/E26-AI01-07/)
 - [8조: 좋아하는 일을 찾자](https://kookmin-sw.github.io/E26-AI01-08/)
@@ -26,4 +26,4 @@
 - [20조: 코드는 사라지지만,우리의 인연은 사라지지 않는다.](https://kookmin-sw.github.io/E26-AI01-20/)
 
 ---
-[← 2026년](./) · [소프트웨어학부 결과물 →](sw) · 갱신: 2026-09-19
+[← 2026년](./) · [소프트웨어학부 결과물 →](sw) · 갱신: 2026-10-13
