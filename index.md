@@ -10,7 +10,7 @@
 - ### [소프트웨어학부 결과물](sw)
   01반 18팀, 02반 19팀
 - ### [인공지능학부 결과물](ai)
-  01반 20팀
+  01반 19팀
 
 ## 팀 페이지 안내
 
@@ -20,7 +20,7 @@
 - 팀 이름 옆 문구는 각 팀 README의 "팀 슬로건" 항목에서 가져옵니다. 작성 전이면 "슬로건 미정"으로 표시됩니다.
 
 ---
-[유레카프로젝트 홈](https://eureka.cs.kookmin.ac.kr/) · [2025년 결과물](https://eureka.cs.kookmin.ac.kr/홈/2025년) · 갱신: 2026-10-13
+[유레카프로젝트 홈](https://eureka.cs.kookmin.ac.kr/) · [2025년 결과물](https://eureka.cs.kookmin.ac.kr/홈/2025년) · 갱신: 2026-10-16
 
 <small>운영 확인용 시험 팀: [7조: 슬로건 미정](https://kookmin-sw.github.io/E26-SW99-07/)
 [8조: 슬로건 미정](https://kookmin-sw.github.io/E26-SW99-08/)</small>
