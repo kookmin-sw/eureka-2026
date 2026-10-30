@@ -27,7 +27,7 @@
       <li><a href="https://kookmin-sw.github.io/E26-SW01-13/">13조: 상상을 현실로 노력을 결실로 !</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-14/">14조: "즐겁게 살자!"</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-15/">15조: 끝없는 바다처럼, 무한한 가능성</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-16/">16조: 슬로건 미정</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-16/">16조: 버그가 아니라 기능입니다</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-17/">17조: According to Coding</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-18/">18조: 아이디어를 코드로, 가능성을 현실로</a></li>
     </ul>
