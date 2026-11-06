@@ -12,15 +12,15 @@
   <div>
     <h2 id="01반">01반</h2>
     <ul>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-01/">1조: git commit -m "오늘도 한 줄”</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-01/">1조: git commit -m "오늘도 한 줄"</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-02/">2조: 오늘의 아이디어가 내일의 새로운 기준이 되도록</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-03/">3조: 한 살이라도 젊을 때 많은 걸 경험하자 🔥</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-04/">4조: printf("살려주세요")</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-05/">5조: "error는 있어도 포기는 없다."</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-06/">6조: 슬로건 미정</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-06/">6조: 사람을 이해하고, 사람에게 맞춰 변화한다.</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-07/">7조: Discover. Develop. Deliver.</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-08/">8조: 재밌게 못 만든 게임은 잘 만든 게임이다. - 뭉쳐야 산다.</a></li>
-      <li><a href="https://kookmin-sw.github.io/E26-SW01-09/">9조: 슬로건 미정</a></li>
+      <li><a href="https://kookmin-sw.github.io/E26-SW01-09/">9조: 모두의 commits, 하나의 release</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-10/">10조: A+ 받고 10죠</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-11/">11조: 다르게 생각하고, 함께 해내자</a></li>
       <li><a href="https://kookmin-sw.github.io/E26-SW01-12/">12조: 결번</a></li>
@@ -59,4 +59,4 @@
 </div>
 
 ---
-[← 2026년](./) · [인공지능학부 결과물 →](ai) · 갱신: 2026-11-04
+[← 2026년](./) · [인공지능학부 결과물 →](ai) · 갱신: 2026-11-06
