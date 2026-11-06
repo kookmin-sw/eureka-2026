@@ -11,8 +11,8 @@
 - [5조: 오늘을 학습해 내일을 만든다.](https://kookmin-sw.github.io/E26-AI01-05/)
 - [6조: 상상은 다르게, 꿈은 크게, 미래는 함께](https://kookmin-sw.github.io/E26-AI01-06/)
 - [7조: Error507: Insufficient Brain Storage](https://kookmin-sw.github.io/E26-AI01-07/)
-- [9조: Where AI Meets Creativity.](https://kookmin-sw.github.io/E26-AI01-09/)
-- [10조: git learning --force](https://kookmin-sw.github.io/E26-AI01-10/)
+- [9조: 슬로건 미정](https://kookmin-sw.github.io/E26-AI01-09/)
+- [10조: `git learning --force`](https://kookmin-sw.github.io/E26-AI01-10/)
 - [11조: 좋아하는 일을 찾자](https://kookmin-sw.github.io/E26-AI01-11/)
 - [12조: 실패는 데이터다. 우리는 학습한다!](https://kookmin-sw.github.io/E26-AI01-12/)
 - [13조: The most personal is the most creative](https://kookmin-sw.github.io/E26-AI01-13/)
@@ -25,4 +25,4 @@
 - [20조: 코드는 사라지지만,우리의 인연은 사라지지 않는다.](https://kookmin-sw.github.io/E26-AI01-20/)
 
 ---
-[← 2026년](./) · [소프트웨어학부 결과물 →](sw) · 갱신: 2026-11-04
+[← 2026년](./) · [소프트웨어학부 결과물 →](sw) · 갱신: 2026-11-06
